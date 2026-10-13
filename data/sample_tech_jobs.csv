@@ -1,0 +1,801 @@
+job_title,experience_level,salary_in_usd,key_skills,company_location,work_mode
+Data Scientist,Mid,140000.0,"Pandas, Python, Spark, TensorFlow, Machine Learning, AWS",Germany,Hybrid
+,Mid,114500.0,"AWS, SQL, Snowflake, Airflow, Kafka, Spark",United States,Remote
+Data Engineer,Senior,166500.0,"Spark, SQL, Airflow, Kafka, Scala, Python",Canada,Hybrid
+Data Scientist,Junior,80000.0,"Machine Learning, SQL, Pandas, AWS",Germany,Remote
+Data Scientist,Senior,174500.0,"Machine Learning, SQL, Pandas, Python",Canada,On-site
+Frontend Developer,Senior,148500.0,"TypeScript, Git, HTML",United Kingdom,Hybrid
+Data Scientist,Junior,71500.0,,United Kingdom,Hybrid
+Software Engineer,Mid,135000.0,"Java, Git, Python, JavaScript, SQL",Canada,On-site
+Frontend Developer,Junior,72000.0,"CSS, Git, TypeScript, HTML",United Kingdom,Remote
+Machine Learning Engineer,Junior,89000.0,"Docker, TensorFlow, Python",Canada,Hybrid
+Backend Developer,Senior,171500.0,"Python, SQL, REST APIs",Germany,Hybrid
+Backend Developer,Junior,64500.0,"MongoDB, REST APIs, SQL",Germany,Remote
+Machine Learning Engineer,Senior,170000.0,"PyTorch, Python, SQL, TensorFlow, Docker, Machine Learning",United Kingdom,Remote
+Data Scientist,Senior,174500.0,"Pandas, Statistics, Python, Machine Learning, TensorFlow, SQL",Germany,On-site
+DevOps Engineer,Mid,113500.0,"Jenkins, Terraform, Kubernetes",Germany,Hybrid
+Machine Learning Engineer,Lead,211500.0,"Docker, Python, Machine Learning",Germany,Hybrid
+Data Engineer,Mid,94500.0,"Python, AWS, Spark, SQL, Snowflake, Scala",United Kingdom,On-site
+Machine Learning Engineer,Junior,87500.0,"PyTorch, AWS, Docker, Python, MLOps",Canada,On-site
+Data Analyst,Mid,117000.0,"Statistics, Excel, R",Germany,On-site
+Software Engineer,Junior,70500.0,"Java, Git, C++, JavaScript, AWS",Canada,Remote
+Data Analyst,Mid,103500.0,"Power BI, Tableau, Excel, SQL, R, Python",United States,On-site
+Data Scientist,Junior,76500.0,"Statistics, Tableau, SQL, TensorFlow, Spark, Machine Learning",United Kingdom,On-site
+Backend Developer,Junior,76000.0,"REST APIs, Java, Node.js",Canada,Remote
+Frontend Developer,Junior,62000.0,"TypeScript, Git, JavaScript, Redux, HTML",Canada,On-site
+Data Analyst,Senior,140000.0,"Excel, Pandas, SQL, Tableau",United States,Hybrid
+Frontend Developer,Junior,67500.0,"Figma, CSS, Redux",Germany,Remote
+Data Engineer,Senior,184000.0,"SQL, Snowflake, Kafka, Python",India,Hybrid
+Frontend Developer,Senior,188000.0,"HTML, TypeScript, Next.js, React, JavaScript",India,On-site
+Backend Developer,Senior,240000.0,"Java, Node.js, AWS, SQL, Python",Canada,Remote
+Software Engineer,Junior,76500.0,"Java, Python, AWS",United Kingdom,Remote
+Frontend Developer,Mid,101000.0,"Next.js, JavaScript, React, HTML",India,On-site
+DevOps Engineer,Mid,111500.0,"Kubernetes, Terraform, AWS, Python, Ansible",Germany,On-site
+Frontend Developer,Lead,144000.0,"Git, TypeScript, JavaScript, CSS, HTML, Redux",Canada,Hybrid
+Frontend Developer,Mid,104500.0,"JavaScript, HTML, React, TypeScript",United Kingdom,Hybrid
+DevOps Engineer,Mid,106500.0,"Docker, Jenkins, Kubernetes, Terraform",United Kingdom,Hybrid
+Backend Developer,Senior,176000.0,"Node.js, REST APIs, SQL, Docker, MongoDB, Java",Canada,Hybrid
+DevOps Engineer,Senior,188500.0,"Jenkins, AWS, Ansible",United States,Remote
+Data Engineer,Senior,158000.0,"Docker, Python, AWS, SQL, Airflow",United States,On-site
+Data Analyst,Mid,60500.0,"Python, Power BI, Statistics, Tableau, R",Canada,On-site
+Frontend Developer,Junior,68500.0,"HTML, Git, TypeScript",Germany,Hybrid
+DevOps Engineer,Senior,175500.0,"Kubernetes, Docker, AWS, Jenkins, Linux, CI/CD",United States,Hybrid
+Backend Developer,Senior,176000.0,"Python, Git, REST APIs, MongoDB, Java, AWS",Canada,Hybrid
+Data Scientist,Mid,116500.0,"Python, Machine Learning, Tableau",United Kingdom,On-site
+,Mid,123000.0,,United States,Remote
+DevOps Engineer,Senior,187500.0,"Ansible, Linux, AWS, Python",Canada,On-site
+Data Analyst,Junior,57000.0,"SQL, Pandas, Tableau",Canada,On-site
+Data Scientist,Junior,60500.0,"TensorFlow, SQL, Tableau",India,On-site
+DevOps Engineer,Lead,219000.0,"Linux, Python, AWS, Docker, Terraform, Jenkins",United Kingdom,Hybrid
+Data Scientist,Junior,65000.0,"SQL, Pandas, Spark, Python, TensorFlow, Machine Learning",India,Remote
+Data Engineer,Junior,77000.0,"Python, Scala, Spark, Kafka, Airflow",Canada,Hybrid
+Data Engineer,Lead,210000.0,"AWS, Airflow, Docker",United States,On-site
+Data Engineer,Mid,174000.0,"SQL, Python, Spark, Kafka, Airflow",United States,Hybrid
+Frontend Developer,Mid,84500.0,"JavaScript, HTML, React",United States,Hybrid
+Machine Learning Engineer,Senior,187500.0,"AWS, PyTorch, Docker, Machine Learning, TensorFlow",United Kingdom,Hybrid
+Software Engineer,Mid,149000.0,"JavaScript, System Design, SQL, Docker",India,On-site
+Software Engineer,Mid,131500.0,"Java, JavaScript, Python, SQL, AWS, Git",United Kingdom,Remote
+DevOps Engineer,Mid,143000.0,"Terraform, AWS, Kubernetes, Ansible, CI/CD, Docker",Germany,Remote
+Data Analyst,Mid,86500.0,"SQL, Excel, Python, Pandas, R",Canada,Hybrid
+Data Analyst,Lead,140500.0,"Python, SQL, Power BI, Excel, R, Tableau",Germany,On-site
+Data Analyst,Mid,,"Python, SQL, Excel, Statistics",Canada,Hybrid
+Software Engineer,Senior,158000.0,"Java, Git, SQL, Python, JavaScript",India,Hybrid
+Software Engineer,Senior,160000.0,"System Design, SQL, JavaScript, Git, Java, Python",Canada,Remote
+DevOps Engineer,Junior,93000.0,"Docker, AWS, Jenkins, Kubernetes, CI/CD",United Kingdom,On-site
+Data Engineer,Senior,180500.0,"Scala, Airflow, Spark, Kafka",Germany,Remote
+Software Engineer,Lead,195000.0,"JavaScript, Java, AWS, Git, SQL",Canada,Hybrid
+Data Engineer,Lead,229500.0,"Kafka, Spark, SQL, AWS, Scala, Docker",India,Hybrid
+Data Scientist,Junior,74000.0,"TensorFlow, AWS, Tableau, Python, Machine Learning, SQL",Canada,Remote
+Frontend Developer,Senior,,"Git, JavaScript, React, TypeScript, Redux",United Kingdom,On-site
+Backend Developer,Senior,166500.0,"Python, MongoDB, REST APIs, SQL, AWS",United Kingdom,Hybrid
+Frontend Developer,Junior,48500.0,"HTML, React, Next.js, JavaScript, Git, Redux",United Kingdom,Remote
+DevOps Engineer,Mid,122500.0,"Terraform, Ansible, Linux, Docker",United Kingdom,Remote
+Data Analyst,Junior,71000.0,"SQL, Excel, Python, Statistics",Canada,Hybrid
+Data Engineer,Lead,220500.0,"AWS, Python, Docker, Spark",Canada,Remote
+Machine Learning Engineer,Senior,220000.0,"AWS, PyTorch, Python, SQL, Machine Learning",United States,Hybrid
+Machine Learning Engineer,Senior,221500.0,"TensorFlow, MLOps, AWS, Docker, SQL, Python",United States,Hybrid
+Machine Learning Engineer,Senior,183500.0,"Machine Learning, TensorFlow, Python",Canada,Remote
+DevOps Engineer,Junior,57500.0,"AWS, Kubernetes, Terraform",Germany,On-site
+Data Scientist,Junior,80500.0,"Python, Pandas, SQL",Canada,On-site
+Data Engineer,Mid,129500.0,"SQL, Snowflake, AWS, Spark",United States,On-site
+Data Engineer,Senior,150500.0,"Python, Spark, Kafka, SQL",Germany,On-site
+Data Analyst,Junior,46500.0,"Power BI, SQL, Pandas, Excel, Tableau, Python",United States,Hybrid
+Data Analyst,Senior,116500.0,"Statistics, Tableau, SQL, Power BI, Excel",India,Remote
+Software Engineer,Mid,157000.0,"Git, AWS, Python, Docker",India,On-site
+Software Engineer,Mid,132000.0,"Java, Git, AWS, JavaScript",Canada,On-site
+Data Scientist,Mid,125000.0,"Python, Pandas, Statistics, Spark, SQL, AWS",United Kingdom,Hybrid
+,Senior,176500.0,"AWS, Airflow, Python",Germany,On-site
+Data Engineer,Junior,89500.0,"Snowflake, SQL, AWS, Python, Spark",Germany,Hybrid
+Data Analyst,Mid,90000.0,"Power BI, Tableau, R, Python, Excel",Canada,On-site
+Data Scientist,Mid,116000.0,"Python, Tableau, Machine Learning, Pandas, Spark, SQL",Germany,On-site
+Backend Developer,Lead,164000.0,"Python, Docker, AWS, Node.js, REST APIs, SQL",United Kingdom,On-site
+Frontend Developer,Senior,118000.0,"JavaScript, React, Git, Figma, HTML, Next.js",Canada,Remote
+DevOps Engineer,Mid,201500.0,,United States,On-site
+Machine Learning Engineer,Mid,145500.0,"Python, AWS, TensorFlow, SQL",Germany,On-site
+Data Analyst,Senior,116000.0,"Excel, SQL, Power BI",United States,Hybrid
+Data Engineer,Junior,72500.0,"Scala, Airflow, AWS, SQL",India,On-site
+Data Analyst,Senior,114500.0,"Pandas, R, SQL, Python",India,Hybrid
+Data Engineer,Senior,155000.0,"AWS, SQL, Python",United Kingdom,On-site
+Data Scientist,Mid,110000.0,"SQL, Machine Learning, TensorFlow, Spark, Python, AWS",Germany,On-site
+Data Engineer,Senior,157000.0,"Spark, Python, Airflow, Docker",United Kingdom,Remote
+DevOps Engineer,Mid,153500.0,"Docker, AWS, Jenkins, Python",United States,Remote
+Machine Learning Engineer,Mid,141500.0,"Machine Learning, TensorFlow, Python, SQL, AWS",Canada,Remote
+Data Analyst,Mid,71500.0,"Excel, SQL, Pandas",United States,On-site
+Backend Developer,Mid,120000.0,"Node.js, SQL, Git, AWS, Docker",India,Hybrid
+Frontend Developer,Lead,143000.0,"JavaScript, HTML, Git",Germany,Hybrid
+Data Scientist,Senior,215000.0,"AWS, Machine Learning, Pandas, Python, Spark, SQL",Canada,On-site
+Data Engineer,Junior,81000.0,"Airflow, Spark, Docker, Python",United Kingdom,Remote
+DevOps Engineer,Senior,136500.0,"Kubernetes, Jenkins, AWS, CI/CD",Canada,Remote
+Software Engineer,Mid,126000.0,"AWS, C++, SQL",Germany,Hybrid
+Data Analyst,Lead,189000.0,"Power BI, Python, Tableau, Excel",Germany,Remote
+Machine Learning Engineer,Mid,130000.0,"TensorFlow, Python, Docker, AWS",India,On-site
+Backend Developer,Junior,69500.0,"AWS, SQL, REST APIs, Java",Canada,On-site
+Frontend Developer,Junior,68500.0,"Redux, React, CSS",United Kingdom,Remote
+Frontend Developer,Mid,100500.0,"TypeScript, React, Figma, HTML, JavaScript, Git",Germany,Remote
+Backend Developer,Mid,130000.0,"AWS, SQL, Node.js, REST APIs, Java",Canada,On-site
+Data Engineer,Lead,191500.0,"Scala, Kafka, Spark, SQL, AWS, Python",India,On-site
+Data Engineer,Mid,161500.0,"Kafka, Snowflake, SQL, Python, Docker",United States,Remote
+Data Analyst,Senior,97000.0,"Python, R, SQL",Canada,On-site
+Data Scientist,Mid,114500.0,"Spark, Python, TensorFlow, Machine Learning",United Kingdom,Remote
+Data Analyst,Junior,44000.0,"SQL, Python, Tableau, Power BI, Statistics",United States,Remote
+Data Scientist,Mid,158500.0,"TensorFlow, Spark, SQL, Machine Learning, Python, Tableau",Germany,Hybrid
+Machine Learning Engineer,Senior,174000.0,"TensorFlow, PyTorch, Docker, Machine Learning, Kubernetes, Python",United Kingdom,Remote
+Backend Developer,Junior,79000.0,"Java, Node.js, Docker",United States,On-site
+Machine Learning Engineer,Senior,193000.0,"Python, Kubernetes, Machine Learning, PyTorch, TensorFlow",United Kingdom,Remote
+Software Engineer,Senior,160000.0,"AWS, Git, Python, Java",Germany,Remote
+Backend Developer,Junior,70500.0,"Java, AWS, Python",Germany,Remote
+Frontend Developer,Senior,150000.0,"HTML, Next.js, Figma",Canada,Remote
+Data Engineer,Junior,80000.0,"Python, Kafka, AWS",Germany,Hybrid
+Data Engineer,Senior,165000.0,"SQL, AWS, Python, Spark, Kafka, Docker",India,Hybrid
+Data Analyst,Junior,59000.0,"Excel, Tableau, Power BI, SQL",India,On-site
+Data Scientist,Senior,178500.0,"Python, Tableau, Machine Learning",Canada,Hybrid
+Frontend Developer,Junior,87000.0,"CSS, React, TypeScript, JavaScript, Git, HTML",United States,On-site
+DevOps Engineer,Mid,112500.0,"AWS, Kubernetes, Docker, Terraform, Python, Ansible",Germany,On-site
+Frontend Developer,Junior,46500.0,"JavaScript, Next.js, Git",United States,Remote
+DevOps Engineer,Lead,185500.0,"Kubernetes, Docker, Jenkins, Terraform, CI/CD",Canada,On-site
+,Mid,101500.0,"HTML, CSS, JavaScript, React, Redux, Next.js",United Kingdom,Hybrid
+DevOps Engineer,Mid,126500.0,"Jenkins, Kubernetes, Docker, Terraform",Canada,Hybrid
+Data Engineer,Senior,157500.0,"Python, Spark, SQL, AWS",United Kingdom,Remote
+Backend Developer,Junior,70000.0,"Docker, SQL, AWS, MongoDB",United States,Hybrid
+Data Scientist,Junior,101000.0,"Machine Learning, AWS, Statistics, Python, TensorFlow",Canada,Hybrid
+Data Scientist,Senior,122000.0,"Statistics, Machine Learning, Python",United Kingdom,Remote
+Backend Developer,Senior,209500.0,"Node.js, SQL, Java, Docker",United States,Hybrid
+Data Analyst,Lead,114000.0,"Statistics, SQL, Tableau, Excel, Python",India,Remote
+Software Engineer,Mid,82500.0,"SQL, Git, Java, JavaScript",India,Remote
+Data Scientist,Mid,164500.0,"Python, Statistics, Machine Learning, Pandas",United Kingdom,On-site
+DevOps Engineer,Mid,99000.0,"AWS, Kubernetes, Terraform, Docker, Linux",United Kingdom,Hybrid
+Data Analyst,Lead,150500.0,"Statistics, R, SQL",United Kingdom,Hybrid
+Backend Developer,Mid,102000.0,"Python, Java, Node.js, Git, Docker, SQL",United Kingdom,Remote
+Data Engineer,Lead,182000.0,"SQL, Snowflake, Python",Germany,Hybrid
+Data Scientist,Mid,120500.0,"Machine Learning, Python, Spark, SQL, AWS, Statistics",Germany,Remote
+Data Analyst,Senior,130000.0,"Statistics, Pandas, SQL, Tableau, Python",Canada,Remote
+Data Analyst,Senior,74500.0,"Python, Excel, SQL, Pandas, Power BI, R",Canada,Hybrid
+Data Scientist,Junior,61500.0,"Spark, SQL, Statistics",Germany,Remote
+Frontend Developer,Junior,62000.0,"JavaScript, React, CSS, Redux, Git, HTML",United Kingdom,Remote
+Frontend Developer,Senior,163000.0,"HTML, JavaScript, React, Redux, TypeScript",India,Remote
+Data Scientist,Junior,100500.0,"Pandas, Machine Learning, SQL, Python, Spark",Germany,On-site
+Frontend Developer,Mid,103500.0,"CSS, HTML, Figma",United States,Hybrid
+Software Engineer,Mid,126500.0,"SQL, Python, Docker, Java",United Kingdom,Remote
+Data Scientist,Senior,154500.0,"Python, Tableau, Pandas, TensorFlow",Canada,Hybrid
+Data Engineer,Senior,178000.0,"Spark, Airflow, Scala, Python, Snowflake",India,Hybrid
+Data Scientist,Mid,101000.0,"TensorFlow, Python, SQL, Pandas, AWS",Germany,On-site
+Software Engineer,Lead,192500.0,"Python, SQL, System Design",Germany,Remote
+Data Analyst,Junior,63000.0,"Python, SQL, Excel, Statistics, Tableau",United Kingdom,Hybrid
+Data Analyst,Senior,127500.0,"Python, Statistics, Excel, SQL, Power BI, Tableau",Canada,Remote
+Data Analyst,Junior,56000.0,"Python, Excel, Statistics, R",India,Hybrid
+DevOps Engineer,Senior,139500.0,"Linux, Python, Jenkins, CI/CD, Kubernetes",Germany,On-site
+DevOps Engineer,Mid,137000.0,"Kubernetes, Terraform, Python",Canada,On-site
+DevOps Engineer,Senior,131000.0,"Ansible, Python, Docker",United States,Hybrid
+DevOps Engineer,Mid,120500.0,"Kubernetes, Terraform, Docker, AWS",India,On-site
+DevOps Engineer,Lead,,"Python, Linux, Docker",Germany,On-site
+Data Analyst,Junior,52000.0,"SQL, Power BI, Statistics, Excel, R, Python",United States,Hybrid
+Backend Developer,Junior,72500.0,"Docker, Python, AWS, SQL",Germany,On-site
+Software Engineer,Lead,215000.0,"Python, SQL, AWS, Java, Git",India,Remote
+Data Analyst,Junior,47500.0,"Python, Statistics, Tableau, Power BI",United States,Remote
+Data Analyst,Mid,88000.0,"Excel, Power BI, SQL, Tableau",United States,On-site
+Data Analyst,Mid,91500.0,,Germany,On-site
+Data Scientist,Junior,73500.0,"Machine Learning, SQL, Tableau, Python",United States,On-site
+Frontend Developer,Senior,161000.0,"Redux, Next.js, React, JavaScript, Git",United Kingdom,On-site
+Data Scientist,Senior,168500.0,"TensorFlow, AWS, Machine Learning, Tableau, SQL",Canada,Remote
+Data Scientist,Senior,157500.0,"Python, SQL, Statistics, Machine Learning, AWS, Spark",Germany,On-site
+Frontend Developer,Senior,130500.0,"React, Git, Figma, TypeScript, Redux",United States,Remote
+Data Engineer,Mid,170500.0,"Scala, SQL, Spark, Snowflake",United States,On-site
+Software Engineer,Mid,94500.0,"JavaScript, Python, AWS, SQL, Docker, System Design",Canada,On-site
+Data Engineer,Senior,162000.0,"AWS, SQL, Spark",Canada,Remote
+Frontend Developer,Mid,,"JavaScript, Git, React",United Kingdom,Remote
+Data Analyst,Senior,95000.0,"Python, Power BI, Excel, SQL, R",United Kingdom,Remote
+Data Scientist,Senior,175000.0,"Machine Learning, Pandas, SQL, Tableau, AWS",United States,Hybrid
+Backend Developer,Junior,64000.0,"MongoDB, SQL, Java, Python, Node.js",United States,Remote
+Data Scientist,Junior,70500.0,"Statistics, TensorFlow, Pandas",United Kingdom,Remote
+Machine Learning Engineer,Mid,117000.0,"TensorFlow, Python, Docker, PyTorch, Machine Learning",Germany,Remote
+DevOps Engineer,Senior,150000.0,"AWS, CI/CD, Docker, Python",Germany,Remote
+Data Scientist,Mid,147500.0,"Statistics, Pandas, Python, TensorFlow",Germany,Remote
+Software Engineer,Junior,66500.0,"Git, Java, Python, AWS, SQL",Canada,Remote
+Data Engineer,Senior,144500.0,"AWS, Airflow, Docker, Spark, Kafka",United States,On-site
+Data Engineer,Mid,112000.0,"AWS, Spark, Scala, Python, SQL",United States,On-site
+Software Engineer,Mid,114500.0,"AWS, Java, SQL",Canada,On-site
+Data Scientist,Junior,81000.0,"SQL, Pandas, Machine Learning, TensorFlow, AWS, Statistics",United States,Remote
+Data Engineer,Lead,164500.0,"Python, AWS, Scala, Airflow, Snowflake, Docker",India,On-site
+Data Engineer,Senior,194000.0,"Spark, Scala, Docker, Kafka, SQL",United States,On-site
+DevOps Engineer,Mid,126500.0,"Linux, Kubernetes, CI/CD, Docker, AWS",United Kingdom,On-site
+Software Engineer,Mid,88500.0,"AWS, SQL, Java, Python, Docker, Git",Germany,On-site
+Data Scientist,Mid,122000.0,"Tableau, Python, Statistics",India,Hybrid
+DevOps Engineer,Junior,94500.0,"Python, AWS, Docker, Jenkins",India,Hybrid
+DevOps Engineer,Junior,74500.0,"CI/CD, Terraform, Jenkins",Canada,Hybrid
+Software Engineer,Mid,148500.0,"Python, Java, Git, Docker",India,On-site
+Machine Learning Engineer,Mid,123500.0,"Docker, AWS, Python, TensorFlow",Germany,Hybrid
+DevOps Engineer,Junior,74500.0,"Kubernetes, AWS, Python",United Kingdom,Remote
+Data Engineer,Lead,216500.0,"Docker, SQL, Kafka",Germany,Remote
+Data Analyst,Lead,156000.0,"SQL, Statistics, Tableau, Python, Excel, Pandas",Germany,On-site
+DevOps Engineer,Senior,200000.0,"Terraform, Docker, Ansible, CI/CD, Kubernetes",Canada,On-site
+Data Engineer,Mid,114000.0,"Kafka, Python, Snowflake",Germany,Hybrid
+Data Analyst,Junior,49000.0,"Pandas, Excel, Power BI, R, SQL, Tableau",Canada,Hybrid
+Machine Learning Engineer,Mid,146000.0,"PyTorch, Kubernetes, Machine Learning",India,Remote
+Data Scientist,Lead,203500.0,"Python, Tableau, Statistics, SQL",United States,Remote
+Data Analyst,Junior,54500.0,"Python, Excel, SQL",Germany,Hybrid
+Machine Learning Engineer,Senior,147500.0,"Python, PyTorch, TensorFlow, SQL",United States,Hybrid
+Frontend Developer,Mid,95500.0,"CSS, HTML, JavaScript, Git, Figma",India,On-site
+,Senior,164500.0,"Docker, REST APIs, MongoDB, Git, Java",India,Hybrid
+Backend Developer,Junior,60500.0,"Git, Java, Python, AWS, SQL",United States,Hybrid
+Data Analyst,Mid,85000.0,"Pandas, Excel, Python, SQL, Power BI, R",Canada,On-site
+Backend Developer,Senior,124500.0,"SQL, AWS, Python, Node.js, Git",India,On-site
+DevOps Engineer,Junior,82500.0,"Docker, Linux, Kubernetes, Terraform",India,Remote
+Data Engineer,Mid,112000.0,"AWS, Python, Docker, Spark",Germany,On-site
+Software Engineer,Junior,119500.0,"AWS, Java, System Design, SQL",United States,Remote
+Data Engineer,Lead,286000.0,"SQL, AWS, Python, Airflow, Spark",United States,Remote
+Software Engineer,Junior,63000.0,"Python, Java, Git, SQL",United Kingdom,Hybrid
+Backend Developer,Mid,122000.0,"Java, SQL, Docker, Git",India,Remote
+Data Scientist,Mid,113500.0,"TensorFlow, Tableau, AWS, Machine Learning, Pandas",Germany,Remote
+Frontend Developer,Lead,129500.0,"Figma, Git, JavaScript, TypeScript",United States,On-site
+DevOps Engineer,Senior,208000.0,"Python, AWS, Docker, Kubernetes, Terraform, Linux",Canada,Hybrid
+Data Scientist,Junior,84000.0,"Machine Learning, SQL, Statistics, Python, Pandas, TensorFlow",United Kingdom,Hybrid
+Data Engineer,Junior,,"Kafka, Scala, Snowflake, SQL, AWS, Airflow",India,Hybrid
+Machine Learning Engineer,Lead,370000.0,"Machine Learning, AWS, Python, Kubernetes",United States,On-site
+Software Engineer,Junior,87000.0,"Java, System Design, Python, Docker, AWS",United Kingdom,Hybrid
+Data Engineer,Junior,102500.0,"Spark, Docker, SQL",Canada,On-site
+Software Engineer,Lead,186000.0,"Git, Python, System Design, AWS, Java, Docker",United States,Hybrid
+Software Engineer,Junior,67000.0,"AWS, JavaScript, Java, Python, Git",Canada,Hybrid
+Data Engineer,Junior,72500.0,"Python, Spark, Kafka, AWS",India,Hybrid
+DevOps Engineer,Senior,171000.0,"Terraform, Ansible, Jenkins, CI/CD, AWS",Germany,Hybrid
+Backend Developer,Lead,237500.0,"Java, Node.js, Docker, AWS, MongoDB",United Kingdom,Hybrid
+Backend Developer,Senior,138000.0,"AWS, Java, Node.js, SQL, Docker",United Kingdom,Hybrid
+Data Scientist,Mid,158500.0,"SQL, Python, Tableau",Germany,Remote
+Data Scientist,Junior,97500.0,"Pandas, Statistics, SQL",Germany,On-site
+,Senior,151000.0,"AWS, CI/CD, Jenkins",India,Remote
+Data Analyst,Mid,99500.0,"Excel, Python, Tableau, Pandas",Germany,Remote
+Frontend Developer,Mid,97000.0,"HTML, React, JavaScript",United States,Remote
+Frontend Developer,Lead,181000.0,"JavaScript, HTML, React, Figma",India,On-site
+Data Scientist,Mid,93000.0,"Statistics, Machine Learning, Tableau",India,On-site
+DevOps Engineer,Senior,187500.0,"Kubernetes, Terraform, AWS, Docker",United Kingdom,Remote
+Backend Developer,Senior,178500.0,"AWS, Java, SQL, Docker",Germany,On-site
+Data Engineer,Mid,120500.0,"AWS, Scala, SQL, Snowflake, Python",India,Hybrid
+Data Scientist,Senior,178500.0,"SQL, Machine Learning, Statistics, Python, Pandas, TensorFlow",Canada,Remote
+Data Analyst,Junior,64000.0,"Statistics, Excel, SQL, Power BI, R",India,On-site
+Machine Learning Engineer,Junior,117500.0,"Docker, TensorFlow, Python, Machine Learning, MLOps",Canada,On-site
+Data Engineer,Junior,94500.0,"AWS, Kafka, Docker",India,Remote
+Data Analyst,Mid,89000.0,"Excel, Pandas, Power BI",Canada,Remote
+Data Engineer,Mid,190000.0,"SQL, Python, AWS, Scala",Germany,On-site
+Data Scientist,Senior,214500.0,"AWS, TensorFlow, Python",United States,Remote
+Frontend Developer,Senior,129500.0,"TypeScript, CSS, React, Figma, Git",United States,Hybrid
+Data Engineer,Senior,131000.0,"SQL, Python, AWS, Spark",Canada,Hybrid
+Data Scientist,Mid,113500.0,"Statistics, Pandas, TensorFlow",India,Remote
+Frontend Developer,Mid,88000.0,"JavaScript, React, CSS, Next.js, TypeScript",India,On-site
+Data Engineer,Junior,68000.0,"Snowflake, AWS, Python, Spark, Docker",United States,Remote
+Machine Learning Engineer,Mid,136000.0,"Python, PyTorch, TensorFlow, SQL, Machine Learning",Canada,On-site
+Backend Developer,Mid,98500.0,"Python, Docker, Java",Canada,Hybrid
+Backend Developer,Mid,133500.0,"MongoDB, AWS, Node.js, SQL, Python, Java",Germany,Remote
+Frontend Developer,Senior,124500.0,"JavaScript, Redux, CSS, TypeScript, HTML, React",Canada,On-site
+Machine Learning Engineer,Junior,77500.0,"Python, PyTorch, Machine Learning",Canada,On-site
+Machine Learning Engineer,Mid,160000.0,"AWS, SQL, Python",Canada,Remote
+Data Scientist,Senior,169500.0,"Pandas, Python, Spark, Statistics, Tableau, Machine Learning",India,On-site
+Frontend Developer,Mid,113500.0,"HTML, React, CSS, Figma, JavaScript",Germany,On-site
+Backend Developer,Mid,160000.0,"REST APIs, MongoDB, SQL, Java",India,On-site
+Machine Learning Engineer,Junior,113000.0,"AWS, Docker, Machine Learning, PyTorch",United Kingdom,On-site
+DevOps Engineer,Senior,190500.0,"AWS, Terraform, CI/CD",United Kingdom,Remote
+Machine Learning Engineer,Mid,140500.0,"Kubernetes, Python, SQL, PyTorch, TensorFlow",Germany,Hybrid
+Frontend Developer,Junior,77000.0,"HTML, Git, Next.js, TypeScript",Canada,On-site
+Frontend Developer,Lead,,"HTML, Redux, TypeScript, CSS",Germany,Remote
+Data Engineer,Junior,114500.0,"Python, Airflow, Spark",India,Remote
+Backend Developer,Mid,122000.0,"SQL, Node.js, AWS, MongoDB, Docker, Git",India,On-site
+Software Engineer,Mid,123500.0,"SQL, Git, Python, Java, C++, JavaScript",Germany,Hybrid
+Data Analyst,Mid,103000.0,"Statistics, SQL, Power BI, Tableau",India,Remote
+Machine Learning Engineer,Senior,242000.0,"Docker, AWS, Kubernetes, MLOps",United States,Hybrid
+Data Analyst,Senior,101500.0,"Pandas, Python, Tableau, SQL, Excel, Statistics",Germany,Hybrid
+Backend Developer,Junior,65500.0,"Docker, MongoDB, Java, Node.js",India,Hybrid
+Machine Learning Engineer,Mid,136500.0,"TensorFlow, Machine Learning, Kubernetes, Docker, PyTorch",Germany,Remote
+Software Engineer,Junior,72000.0,"Python, AWS, Docker, SQL, C++, Git",United States,Remote
+Data Analyst,Senior,127000.0,"Statistics, SQL, Python, Power BI, Excel, Pandas",United Kingdom,Remote
+Data Scientist,Senior,216000.0,"Python, Pandas, Spark, SQL",India,On-site
+Frontend Developer,Senior,119500.0,"CSS, Figma, JavaScript",United Kingdom,Hybrid
+Software Engineer,Senior,139500.0,"Git, Java, AWS, SQL, System Design",Canada,On-site
+DevOps Engineer,Mid,155000.0,"Docker, Kubernetes, Terraform, Python",United States,Hybrid
+Backend Developer,Senior,187000.0,"Docker, Python, Java",Germany,On-site
+Frontend Developer,Junior,79000.0,"Git, Next.js, JavaScript, TypeScript",Canada,Remote
+Software Engineer,Senior,165500.0,"Docker, System Design, Java, Python, C++",United Kingdom,Hybrid
+Data Scientist,Senior,110000.0,"Python, TensorFlow, Tableau, Machine Learning, Statistics",United Kingdom,Hybrid
+Data Scientist,Junior,95000.0,"Python, Pandas, Machine Learning, SQL",Germany,Remote
+Data Analyst,Mid,74000.0,"Python, Statistics, SQL, Power BI, R",Canada,Remote
+Data Scientist,Mid,117500.0,"Pandas, TensorFlow, Spark, Statistics, Python",United Kingdom,Hybrid
+Software Engineer,Junior,91000.0,"AWS, Python, Java",United States,On-site
+Data Analyst,Senior,121500.0,"SQL, Tableau, Excel, Python, Pandas, Power BI",Germany,Remote
+Software Engineer,Lead,160000.0,"AWS, Git, Python",Canada,Remote
+Software Engineer,Junior,88500.0,"Git, JavaScript, Docker, Python, Java",United States,Remote
+Data Engineer,Mid,163000.0,"Python, AWS, SQL, Snowflake",Germany,Hybrid
+Software Engineer,Mid,112000.0,"Python, AWS, System Design, Docker",Canada,Hybrid
+Data Analyst,Mid,92500.0,"Python, Excel, SQL, Power BI, Statistics",India,Remote
+Data Analyst,Mid,64000.0,"SQL, Excel, Python",United States,On-site
+Data Analyst,Mid,,"SQL, Tableau, Excel, Power BI",India,On-site
+Data Engineer,Lead,189500.0,"SQL, Scala, Airflow",Germany,Hybrid
+Software Engineer,Junior,90500.0,"Python, Docker, Git, System Design, Java, C++",United Kingdom,Hybrid
+DevOps Engineer,Lead,232000.0,"Jenkins, Terraform, Linux, AWS, CI/CD",United States,Hybrid
+Machine Learning Engineer,Junior,115500.0,"Python, AWS, MLOps",United Kingdom,On-site
+Frontend Developer,Senior,118000.0,"CSS, TypeScript, React",India,Remote
+Software Engineer,Junior,98000.0,"JavaScript, Docker, Git, Python, Java",Canada,On-site
+DevOps Engineer,Lead,174500.0,"CI/CD, AWS, Docker",Germany,Hybrid
+Data Analyst,Senior,136000.0,"Statistics, SQL, Power BI, Pandas",Germany,Hybrid
+Data Analyst,Junior,54500.0,"Excel, Pandas, Statistics, R",Canada,On-site
+DevOps Engineer,Junior,71500.0,"Docker, Terraform, Kubernetes, CI/CD, AWS",India,Remote
+Backend Developer,Senior,,"REST APIs, AWS, SQL, Java, Node.js",United States,On-site
+DevOps Engineer,Junior,73000.0,"AWS, Terraform, CI/CD",Canada,Remote
+Data Analyst,Mid,88500.0,,Germany,On-site
+Software Engineer,Mid,79500.0,"AWS, Java, SQL, JavaScript, Git, System Design",United Kingdom,Remote
+Data Engineer,Junior,94000.0,"Docker, SQL, Python, Spark, Snowflake",United Kingdom,Hybrid
+Data Scientist,Mid,127000.0,"SQL, Tableau, Statistics, Machine Learning, TensorFlow",India,On-site
+Machine Learning Engineer,Junior,116500.0,"AWS, Python, PyTorch, Docker",Canada,Hybrid
+Data Analyst,Senior,120500.0,"Power BI, R, Python, Tableau, Pandas, Excel",India,Remote
+Data Engineer,Mid,135000.0,"Airflow, AWS, SQL",Canada,On-site
+Software Engineer,Mid,132000.0,"Python, JavaScript, Git, SQL",Germany,On-site
+Data Analyst,Mid,81000.0,"R, Statistics, Power BI, Pandas, Excel",United States,Hybrid
+Data Scientist,Junior,91000.0,"Python, Pandas, TensorFlow, SQL, Machine Learning",United Kingdom,Hybrid
+DevOps Engineer,Lead,156500.0,"Ansible, Kubernetes, AWS, Terraform, Docker",Canada,Remote
+Data Analyst,Lead,150500.0,"Tableau, Power BI, Excel",Germany,Hybrid
+Data Engineer,Lead,225500.0,"Python, Airflow, AWS",United Kingdom,Hybrid
+Data Analyst,Senior,118500.0,"Excel, SQL, Tableau",Germany,Hybrid
+Data Scientist,Junior,71000.0,"Python, Pandas, AWS",United States,Hybrid
+Data Analyst,Junior,52500.0,"Power BI, Statistics, SQL, Excel, Python, R",United States,On-site
+Machine Learning Engineer,Mid,114500.0,"AWS, Kubernetes, PyTorch, Python, Machine Learning, TensorFlow",Canada,On-site
+Data Engineer,Mid,134500.0,"SQL, Docker, Python",Germany,Remote
+Data Scientist,Junior,,"Statistics, Pandas, Python, SQL, Spark, Tableau",United States,Remote
+Software Engineer,Senior,150000.0,"JavaScript, Git, Java, SQL, System Design, Python",Canada,Hybrid
+Frontend Developer,Junior,78000.0,"Git, Next.js, JavaScript",United Kingdom,On-site
+Machine Learning Engineer,Junior,83500.0,"AWS, TensorFlow, Machine Learning",United Kingdom,On-site
+Software Engineer,Lead,202500.0,"System Design, Docker, JavaScript",Canada,Hybrid
+Data Scientist,Junior,75000.0,"Python, Machine Learning, Pandas",Canada,Remote
+Backend Developer,Junior,118000.0,"Java, SQL, Docker, AWS, Python",Germany,Remote
+Backend Developer,Junior,73500.0,"Node.js, Python, Java, SQL, Git",India,On-site
+Data Analyst,Mid,89500.0,"Tableau, Pandas, Excel, SQL",Canada,Hybrid
+Machine Learning Engineer,Senior,197000.0,"TensorFlow, MLOps, Machine Learning, PyTorch",Canada,Hybrid
+DevOps Engineer,Senior,135000.0,"Docker, Terraform, AWS",United States,On-site
+Data Analyst,Junior,52500.0,"Excel, SQL, Power BI, R, Python",Canada,Remote
+Machine Learning Engineer,Mid,169000.0,"AWS, Kubernetes, Machine Learning, PyTorch, Python",Germany,Hybrid
+Data Engineer,Junior,98500.0,"Python, Airflow, Spark",United States,On-site
+Data Analyst,Mid,70000.0,"Tableau, Python, R, Statistics",Canada,Hybrid
+Frontend Developer,Junior,59500.0,"React, Figma, TypeScript, JavaScript",Canada,On-site
+Data Analyst,Mid,72500.0,"Pandas, Tableau, Python",United Kingdom,On-site
+Data Engineer,Senior,207500.0,"SQL, Python, Airflow",Germany,Remote
+Data Analyst,Mid,97000.0,"Python, Statistics, Excel, Pandas, SQL, Tableau",United States,Hybrid
+Machine Learning Engineer,Senior,166000.0,"Machine Learning, TensorFlow, Kubernetes, Python, AWS",United Kingdom,Remote
+Frontend Developer,Mid,95000.0,"HTML, JavaScript, React, CSS, Git, Next.js",Canada,Hybrid
+Software Engineer,Senior,197000.0,"Git, SQL, Python, JavaScript, AWS",India,On-site
+Machine Learning Engineer,Senior,179500.0,"Kubernetes, Python, Machine Learning, TensorFlow",Germany,On-site
+DevOps Engineer,Mid,144000.0,"Docker, Python, Jenkins, Terraform, Linux, Kubernetes",Canada,Remote
+Software Engineer,Junior,79500.0,"Docker, C++, Java, AWS",Canada,Remote
+Frontend Developer,Junior,62000.0,"TypeScript, JavaScript, Next.js",United Kingdom,Hybrid
+Data Engineer,Senior,158500.0,"AWS, Python, SQL, Airflow, Kafka, Spark",United Kingdom,On-site
+Software Engineer,Mid,114000.0,"Java, JavaScript, Git",India,Hybrid
+Data Scientist,Junior,88000.0,"Python, Tableau, AWS, Statistics",United States,Hybrid
+Backend Developer,Junior,90500.0,"Node.js, SQL, Java, Python, REST APIs, Git",United States,Hybrid
+Data Scientist,Senior,162500.0,"Tableau, Pandas, Statistics, Python, Spark",Germany,Remote
+Machine Learning Engineer,Lead,255000.0,"Docker, TensorFlow, Python, PyTorch, SQL, Kubernetes",India,On-site
+Data Engineer,Lead,196000.0,"Spark, AWS, Python, Snowflake",United Kingdom,Remote
+Data Analyst,Mid,76500.0,"Power BI, Statistics, Tableau, Python, SQL, Excel",India,Hybrid
+Backend Developer,Senior,114500.0,"Java, Docker, REST APIs",Germany,Remote
+Machine Learning Engineer,Senior,200000.0,"Machine Learning, Python, AWS, Docker",Germany,Hybrid
+Data Engineer,Senior,190000.0,"Scala, Airflow, Docker, Kafka, Spark, SQL",United States,Hybrid
+Frontend Developer,Mid,133500.0,"JavaScript, HTML, CSS, Redux, TypeScript, React",Canada,On-site
+Data Scientist,Junior,108500.0,"TensorFlow, SQL, Statistics, Python",India,On-site
+Machine Learning Engineer,Mid,147000.0,"PyTorch, TensorFlow, MLOps, Python, Kubernetes, AWS",India,Hybrid
+Data Analyst,Junior,60000.0,"Python, Pandas, Tableau, Power BI, Excel",United States,Remote
+Backend Developer,Lead,238000.0,"AWS, Python, SQL",United States,Remote
+Backend Developer,Mid,,"SQL, Python, AWS",United Kingdom,On-site
+DevOps Engineer,Junior,78500.0,"CI/CD, Kubernetes, Jenkins, Docker, Terraform",Germany,Remote
+Data Engineer,Senior,150000.0,"Kafka, SQL, Scala, Snowflake",Germany,Remote
+Machine Learning Engineer,Mid,155000.0,"Python, Machine Learning, PyTorch, SQL, TensorFlow, AWS",India,Hybrid
+Data Engineer,Mid,128000.0,"AWS, Airflow, Spark, SQL",Canada,On-site
+Machine Learning Engineer,Mid,138000.0,"TensorFlow, Kubernetes, AWS, Machine Learning, Docker, Python",India,On-site
+Frontend Developer,Mid,109000.0,"CSS, JavaScript, Next.js, React, Git, HTML",Germany,On-site
+Data Scientist,Junior,90500.0,"TensorFlow, Machine Learning, SQL, Tableau, Python, Statistics",Germany,On-site
+Frontend Developer,Junior,64500.0,"JavaScript, React, Redux",United Kingdom,Remote
+Data Analyst,Junior,61000.0,,Germany,On-site
+Data Scientist,Senior,167500.0,"SQL, Statistics, Python, Tableau",United States,On-site
+Backend Developer,Mid,142000.0,"Java, Python, MongoDB, REST APIs",India,Hybrid
+DevOps Engineer,Mid,156000.0,"Terraform, CI/CD, Kubernetes",India,On-site
+Software Engineer,Junior,59000.0,"SQL, Docker, Java",United States,On-site
+DevOps Engineer,Senior,153500.0,"CI/CD, Python, Ansible, Terraform",Canada,Remote
+Backend Developer,Senior,173000.0,"MongoDB, Python, REST APIs, Node.js, AWS, Docker",Germany,Remote
+Frontend Developer,Junior,83500.0,"Git, Redux, CSS, JavaScript, Figma, React",United Kingdom,Remote
+Backend Developer,Mid,128000.0,"SQL, AWS, Node.js, Java, REST APIs, Git",Germany,On-site
+Software Engineer,Junior,76000.0,"Git, AWS, Python",United Kingdom,On-site
+Machine Learning Engineer,Lead,268500.0,"MLOps, PyTorch, Python, TensorFlow",United Kingdom,Remote
+Frontend Developer,Mid,109000.0,"TypeScript, Redux, Figma, Next.js, CSS",India,Hybrid
+Data Engineer,Junior,83500.0,"Scala, SQL, Snowflake, Docker, Python",India,Hybrid
+DevOps Engineer,Lead,211000.0,"Kubernetes, Linux, Docker, AWS, Python, CI/CD",United Kingdom,Remote
+DevOps Engineer,Junior,82000.0,"Docker, AWS, Kubernetes, CI/CD",Germany,Hybrid
+Software Engineer,Senior,185500.0,"Java, SQL, Git, Python, JavaScript, System Design",Germany,Remote
+Data Engineer,Mid,121000.0,"Kafka, AWS, Python, Docker, Airflow",Germany,Hybrid
+Data Engineer,Mid,101000.0,"Python, Spark, Airflow, SQL, Kafka",United Kingdom,On-site
+Machine Learning Engineer,Mid,134500.0,"Machine Learning, MLOps, Docker, AWS, Python",United States,On-site
+Software Engineer,Junior,85000.0,"Git, SQL, Python, AWS",United States,Hybrid
+DevOps Engineer,Junior,,"AWS, Linux, Kubernetes, Jenkins, Docker",India,Hybrid
+Data Scientist,Mid,132000.0,"Machine Learning, SQL, Python, Spark",Germany,Hybrid
+Data Analyst,Lead,134000.0,"Python, Power BI, Pandas",United Kingdom,Remote
+Backend Developer,Lead,214500.0,"Git, AWS, MongoDB, SQL",United Kingdom,On-site
+Frontend Developer,Mid,104500.0,"Redux, TypeScript, React, HTML, JavaScript",United Kingdom,On-site
+Data Engineer,Senior,162000.0,"AWS, Spark, Airflow",United States,Remote
+Data Engineer,Mid,164500.0,"AWS, Spark, Snowflake, Python, Airflow, Kafka",Germany,Hybrid
+Data Engineer,Senior,242000.0,"Docker, Python, AWS",India,Hybrid
+DevOps Engineer,Junior,77500.0,"Terraform, AWS, Docker, Linux, CI/CD, Kubernetes",India,On-site
+Backend Developer,Junior,61000.0,,Canada,Remote
+Frontend Developer,Mid,83500.0,"Redux, TypeScript, JavaScript, CSS",India,Remote
+Data Analyst,Junior,58000.0,"Excel, SQL, Power BI, Tableau, Python, Statistics",Germany,Remote
+Software Engineer,Mid,148000.0,"Java, Python, Git",Germany,Hybrid
+Backend Developer,Junior,67000.0,"Node.js, SQL, Python, Java, Docker",United States,Remote
+Data Engineer,Lead,232000.0,,India,Hybrid
+Backend Developer,Junior,69500.0,"SQL, Node.js, Java, REST APIs, Python, Git",United Kingdom,On-site
+Data Engineer,Mid,130000.0,"Spark, SQL, Airflow, Python, AWS",United Kingdom,Remote
+,Lead,225500.0,"Linux, Kubernetes, Jenkins, Terraform, Docker, AWS",United States,Hybrid
+DevOps Engineer,Senior,167500.0,"Python, Kubernetes, CI/CD, AWS",Germany,Remote
+Frontend Developer,Junior,61000.0,"React, HTML, TypeScript, Redux",United States,Remote
+Data Analyst,Mid,103500.0,"Statistics, Excel, R, Python, Pandas",Germany,Remote
+Frontend Developer,Mid,79000.0,"Git, React, TypeScript",Canada,Remote
+Backend Developer,Mid,110500.0,"Python, Java, Node.js",United Kingdom,Hybrid
+Data Engineer,Junior,77000.0,"Spark, Python, Kafka, AWS, Scala",India,Hybrid
+Data Scientist,Junior,73500.0,"Python, TensorFlow, Tableau, SQL, Statistics",India,Hybrid
+Data Analyst,Senior,109500.0,"Excel, Tableau, Pandas, SQL, Power BI",United States,Remote
+Software Engineer,Mid,150500.0,"JavaScript, AWS, SQL, Python, System Design, Java",United Kingdom,Hybrid
+DevOps Engineer,Senior,164500.0,"Kubernetes, Ansible, AWS, Terraform, CI/CD, Jenkins",Germany,Remote
+Frontend Developer,Mid,97500.0,"CSS, JavaScript, Next.js, TypeScript, Redux",Germany,Hybrid
+Data Scientist,Junior,82000.0,"Machine Learning, SQL, Python, Pandas, TensorFlow",Canada,On-site
+Data Engineer,Mid,144500.0,"AWS, SQL, Docker, Spark, Python",Germany,Hybrid
+DevOps Engineer,Senior,167000.0,"Linux, Docker, AWS, Kubernetes",India,Hybrid
+DevOps Engineer,Lead,188000.0,"Ansible, Docker, CI/CD, Terraform",India,Hybrid
+Software Engineer,Senior,153000.0,"AWS, Java, Docker, SQL, System Design, Python",Canada,On-site
+Data Analyst,Mid,92500.0,"Power BI, Tableau, Statistics",Canada,On-site
+Backend Developer,Junior,76500.0,"Java, SQL, Docker, REST APIs, AWS",Canada,Remote
+Data Analyst,Junior,50000.0,"Excel, Power BI, Python",India,On-site
+Software Engineer,Junior,71000.0,"Java, C++, Docker, Python, SQL",United Kingdom,On-site
+Frontend Developer,Senior,157500.0,"JavaScript, CSS, React",Germany,Remote
+DevOps Engineer,Senior,174000.0,"AWS, Kubernetes, Jenkins",United Kingdom,Hybrid
+DevOps Engineer,Senior,209000.0,"Kubernetes, Terraform, Linux, Docker, Python",India,On-site
+Backend Developer,Senior,137000.0,"Java, SQL, Node.js",United States,Remote
+DevOps Engineer,Junior,66500.0,"Ansible, Docker, Python",United Kingdom,On-site
+Software Engineer,Senior,159500.0,"Git, AWS, C++, JavaScript, Java, Python",United Kingdom,Hybrid
+Backend Developer,Junior,89500.0,"Java, Python, REST APIs, MongoDB, AWS, SQL",United Kingdom,Remote
+Backend Developer,Junior,81500.0,"Java, Node.js, Docker, Python, REST APIs",Canada,Hybrid
+Machine Learning Engineer,Mid,157000.0,"MLOps, TensorFlow, Python, Machine Learning, AWS",Germany,Remote
+Data Scientist,Mid,136000.0,"SQL, Tableau, Python, Pandas, AWS",Canada,Remote
+Data Scientist,Mid,159500.0,"Statistics, Pandas, Python, SQL, Tableau, AWS",India,Remote
+Backend Developer,Lead,169500.0,"Python, AWS, Java",India,On-site
+Backend Developer,Mid,126500.0,"Java, Node.js, Python",United Kingdom,Remote
+Machine Learning Engineer,Senior,195000.0,"Machine Learning, Kubernetes, PyTorch, Python, AWS, MLOps",India,Remote
+Frontend Developer,Mid,77000.0,"Git, React, CSS, TypeScript, Figma, JavaScript",India,Hybrid
+,Junior,57500.0,"React, JavaScript, CSS, HTML, Next.js",Germany,On-site
+DevOps Engineer,Junior,78500.0,"Docker, Kubernetes, Python, Jenkins, AWS, Linux",United States,Hybrid
+Software Engineer,Senior,172500.0,"Docker, Git, Java",United Kingdom,Remote
+Machine Learning Engineer,Senior,177500.0,"Docker, Python, PyTorch",Germany,Hybrid
+Backend Developer,Lead,196000.0,"AWS, Java, Python, Docker, SQL",Germany,On-site
+Backend Developer,Mid,119500.0,"Java, Node.js, SQL, REST APIs, AWS, Docker",United Kingdom,On-site
+Software Engineer,Junior,73000.0,"Python, System Design, JavaScript",United States,Hybrid
+DevOps Engineer,Mid,157000.0,"Docker, AWS, Jenkins, Kubernetes, Linux",Germany,Hybrid
+Data Engineer,Mid,137000.0,"Snowflake, Scala, Airflow, Spark",India,Hybrid
+DevOps Engineer,Mid,107000.0,"Python, Kubernetes, Docker",India,Remote
+DevOps Engineer,Junior,77000.0,"Linux, Ansible, Docker",United States,Remote
+Backend Developer,Mid,128500.0,"Node.js, REST APIs, SQL, MongoDB",United Kingdom,Remote
+Data Engineer,Mid,121000.0,"Python, Snowflake, Kafka, SQL",Germany,On-site
+Frontend Developer,Mid,109500.0,"Figma, JavaScript, React, HTML, TypeScript",India,Remote
+Data Scientist,Junior,76000.0,"Pandas, Machine Learning, Python, SQL, AWS, TensorFlow",Germany,Hybrid
+Frontend Developer,Senior,104500.0,"JavaScript, React, HTML, Git, CSS",Germany,On-site
+Software Engineer,Senior,198500.0,"AWS, SQL, Docker, Java",Canada,Hybrid
+DevOps Engineer,Mid,121500.0,"Kubernetes, Terraform, AWS, Linux, Python, Docker",Canada,On-site
+Data Analyst,Lead,117000.0,"Excel, R, SQL",United States,Remote
+Data Engineer,Junior,90000.0,"SQL, Airflow, Python, Kafka",Canada,Remote
+Software Engineer,Junior,85000.0,"C++, Python, AWS, Java, Docker",Canada,Remote
+Data Analyst,Mid,98500.0,"Excel, Statistics, SQL",Germany,Hybrid
+Data Engineer,Junior,75500.0,"SQL, AWS, Airflow, Kafka, Snowflake, Scala",Germany,Remote
+Software Engineer,Mid,128000.0,"Docker, JavaScript, Python, SQL, AWS, Java",United States,Remote
+Frontend Developer,Junior,56000.0,"HTML, TypeScript, Redux, Figma",India,Hybrid
+Machine Learning Engineer,Mid,170500.0,"PyTorch, Python, MLOps, Kubernetes, AWS",Germany,Hybrid
+Frontend Developer,Junior,63500.0,"CSS, HTML, React, Figma",Germany,Hybrid
+Backend Developer,Junior,64000.0,"SQL, Python, Docker, Java, Node.js, REST APIs",Canada,On-site
+Software Engineer,Junior,82500.0,"Java, Python, C++",Germany,Remote
+Data Analyst,Mid,64500.0,"Statistics, SQL, Excel",Germany,Hybrid
+Frontend Developer,Senior,119500.0,"CSS, JavaScript, TypeScript, Redux, HTML, Git",United States,Hybrid
+DevOps Engineer,Mid,137500.0,"Docker, AWS, Linux, Kubernetes, Jenkins, Ansible",Canada,On-site
+Machine Learning Engineer,Senior,205000.0,"TensorFlow, Kubernetes, Docker, PyTorch, SQL, Machine Learning",India,Remote
+Data Engineer,Mid,124500.0,"Kafka, Scala, Spark, Python",India,On-site
+Frontend Developer,Junior,67500.0,"JavaScript, HTML, Git, React",India,Hybrid
+Data Engineer,Mid,155000.0,"Spark, AWS, SQL, Python, Kafka, Airflow",Germany,Remote
+Machine Learning Engineer,Mid,136000.0,"PyTorch, SQL, TensorFlow, Kubernetes",India,Remote
+Frontend Developer,Junior,64500.0,"TypeScript, React, Git, JavaScript, CSS",United Kingdom,Hybrid
+Data Engineer,Junior,71000.0,,India,Hybrid
+Frontend Developer,Lead,168500.0,"HTML, React, TypeScript, CSS, Next.js",United States,Hybrid
+Machine Learning Engineer,Junior,82500.0,"Python, TensorFlow, Machine Learning, Docker",United Kingdom,On-site
+DevOps Engineer,Lead,258500.0,"Ansible, Python, Docker, CI/CD, AWS, Linux",United Kingdom,Hybrid
+Frontend Developer,Junior,,"React, CSS, Next.js",United Kingdom,Remote
+Software Engineer,Junior,71000.0,"Git, AWS, SQL, Python",United Kingdom,Hybrid
+Data Analyst,Senior,112500.0,"Pandas, Python, SQL, Excel, Power BI",Canada,Hybrid
+Machine Learning Engineer,Junior,105000.0,"AWS, TensorFlow, PyTorch, Kubernetes, SQL",United States,Hybrid
+,Senior,215500.0,"SQL, Tableau, Python, Machine Learning",Canada,On-site
+Data Scientist,Mid,129500.0,"Machine Learning, SQL, Python, Pandas, AWS, Statistics",India,Remote
+Data Scientist,Junior,72500.0,"AWS, Machine Learning, Pandas, Python, SQL, Statistics",United States,Remote
+Machine Learning Engineer,Senior,219000.0,"Python, PyTorch, TensorFlow, Docker",India,Hybrid
+Software Engineer,Senior,148000.0,"SQL, Python, AWS",India,Hybrid
+Backend Developer,Junior,95000.0,"Node.js, Python, AWS, Java",United States,Remote
+Frontend Developer,Lead,224000.0,"React, HTML, TypeScript, CSS",United States,On-site
+Backend Developer,Senior,147500.0,"Node.js, SQL, AWS, REST APIs, Python",India,Remote
+Software Engineer,Senior,125000.0,"Java, Git, C++",Canada,On-site
+Data Scientist,Senior,180500.0,"AWS, Machine Learning, Python, SQL, Tableau, Pandas",United States,Hybrid
+Frontend Developer,Mid,91500.0,"React, Git, TypeScript",Germany,Remote
+Machine Learning Engineer,Mid,149000.0,"TensorFlow, Docker, AWS, PyTorch",India,Remote
+Data Engineer,Mid,162000.0,"AWS, Kafka, Snowflake",Canada,Hybrid
+DevOps Engineer,Junior,66500.0,,Germany,Remote
+Data Analyst,Junior,47500.0,"Excel, SQL, Tableau",United States,On-site
+Software Engineer,Mid,120500.0,"Java, Python, JavaScript",Canada,Hybrid
+Data Engineer,Mid,104500.0,"Kafka, Docker, Python, Spark",Germany,On-site
+Data Analyst,Mid,86000.0,"SQL, Pandas, Statistics, Power BI",United Kingdom,Hybrid
+DevOps Engineer,Junior,76000.0,"Kubernetes, Linux, Docker, Python, AWS",Canada,On-site
+DevOps Engineer,Senior,174500.0,"Linux, Kubernetes, Docker, Terraform",United States,On-site
+Backend Developer,Junior,66000.0,"Node.js, Python, MongoDB, AWS, REST APIs",India,Hybrid
+Machine Learning Engineer,Mid,163000.0,"Machine Learning, Python, Kubernetes, AWS, PyTorch",India,Remote
+Frontend Developer,Senior,141000.0,"React, JavaScript, CSS",United Kingdom,On-site
+Data Analyst,Junior,66000.0,"SQL, R, Excel, Python, Tableau, Pandas",United Kingdom,On-site
+Data Scientist,Mid,97500.0,"Python, SQL, AWS, Pandas, TensorFlow",United States,Hybrid
+Data Engineer,Mid,147500.0,"Spark, AWS, Scala, SQL",India,Hybrid
+Data Engineer,Mid,142500.0,"SQL, AWS, Spark",India,On-site
+Frontend Developer,Mid,102000.0,"HTML, Redux, React, Git, CSS, Figma",United States,Hybrid
+Data Scientist,Mid,136000.0,"Tableau, Statistics, SQL, Python, Pandas",Germany,Remote
+Data Analyst,Junior,58500.0,"Python, Statistics, SQL, Tableau",Germany,Remote
+Machine Learning Engineer,Junior,100500.0,"Machine Learning, Docker, Python, AWS, PyTorch, TensorFlow",India,Hybrid
+Frontend Developer,Junior,51000.0,,India,Hybrid
+Machine Learning Engineer,Mid,153000.0,"Python, PyTorch, Kubernetes, AWS, Machine Learning, MLOps",India,On-site
+Machine Learning Engineer,Senior,132000.0,"Kubernetes, PyTorch, AWS, Python, TensorFlow, Machine Learning",India,On-site
+Data Engineer,Mid,144500.0,"Python, Scala, Docker, SQL",Canada,Hybrid
+Software Engineer,Senior,117500.0,"AWS, Java, Python, Docker, System Design",Canada,On-site
+DevOps Engineer,Junior,73000.0,"AWS, Terraform, CI/CD",United Kingdom,Hybrid
+Software Engineer,Senior,182500.0,"JavaScript, Java, SQL",United Kingdom,Remote
+Machine Learning Engineer,Mid,131000.0,"Python, AWS, Kubernetes, MLOps, TensorFlow",India,Hybrid
+DevOps Engineer,Mid,126500.0,"AWS, Kubernetes, Jenkins, Docker, Linux, Terraform",United States,Remote
+Frontend Developer,Mid,82000.0,"HTML, JavaScript, React, CSS, TypeScript, Next.js",Germany,Hybrid
+Backend Developer,Junior,66000.0,"SQL, Docker, MongoDB",India,Hybrid
+Machine Learning Engineer,Senior,196000.0,"PyTorch, Python, TensorFlow, Machine Learning",India,On-site
+Backend Developer,Mid,118000.0,"Python, REST APIs, Node.js, SQL",United Kingdom,On-site
+DevOps Engineer,Mid,130000.0,"Docker, CI/CD, Python, Terraform, Kubernetes, AWS",United Kingdom,On-site
+Backend Developer,Mid,123500.0,"AWS, Python, Java, SQL, Git",United States,Hybrid
+Data Engineer,Senior,144500.0,"Snowflake, Spark, Kafka, AWS, Airflow, Python",United Kingdom,Remote
+Frontend Developer,Mid,73000.0,"HTML, React, JavaScript, Git, CSS, Next.js",Germany,On-site
+DevOps Engineer,Senior,188000.0,"CI/CD, Terraform, Ansible, Docker",India,On-site
+Frontend Developer,Mid,77000.0,"Git, React, JavaScript",India,Hybrid
+Data Scientist,Junior,69000.0,"SQL, Machine Learning, Pandas, Statistics, Python, AWS",United States,Hybrid
+Frontend Developer,Junior,65500.0,"Next.js, JavaScript, TypeScript, Redux",Germany,Hybrid
+Data Analyst,Senior,92000.0,"Excel, SQL, Power BI, Statistics",Germany,Hybrid
+Machine Learning Engineer,Junior,84500.0,"Python, Kubernetes, Machine Learning, PyTorch, Docker, SQL",United States,Hybrid
+Frontend Developer,Lead,171500.0,"TypeScript, Redux, Next.js",Germany,Hybrid
+Machine Learning Engineer,Mid,132000.0,"AWS, Python, SQL, Kubernetes",United Kingdom,Remote
+Data Analyst,Senior,130000.0,"Excel, SQL, R, Power BI",United States,Hybrid
+Software Engineer,Junior,96500.0,"Python, JavaScript, Docker, AWS, Java",India,On-site
+Data Scientist,Junior,93000.0,"Machine Learning, AWS, Statistics, Spark, SQL, Python",India,On-site
+Machine Learning Engineer,Junior,85500.0,"PyTorch, TensorFlow, Python, Machine Learning, Docker",United Kingdom,Hybrid
+Data Analyst,Junior,63500.0,"Excel, Power BI, SQL",Germany,Remote
+Machine Learning Engineer,Junior,82500.0,"Python, TensorFlow, Machine Learning, Kubernetes",United States,On-site
+Backend Developer,Mid,102500.0,,India,Remote
+Machine Learning Engineer,Senior,167500.0,"SQL, Python, Docker",United States,Remote
+Data Scientist,Lead,220500.0,"Tableau, Machine Learning, Statistics, Python, Pandas",United Kingdom,Remote
+Backend Developer,Lead,212500.0,"SQL, REST APIs, Java",Germany,Remote
+DevOps Engineer,Junior,93000.0,"AWS, CI/CD, Docker",Canada,Hybrid
+DevOps Engineer,Mid,113000.0,"Jenkins, Docker, Linux",United States,On-site
+Backend Developer,Mid,133500.0,"Git, Java, Python",Canada,Hybrid
+Data Scientist,Lead,208500.0,"Python, Machine Learning, TensorFlow, SQL, Pandas, Statistics",United Kingdom,Remote
+Machine Learning Engineer,Lead,276000.0,"Python, PyTorch, Machine Learning, TensorFlow",United Kingdom,Hybrid
+Machine Learning Engineer,Mid,138500.0,"TensorFlow, Docker, Machine Learning, Python, PyTorch, MLOps",Germany,On-site
+Data Engineer,Junior,107500.0,"Spark, Python, Kafka",United States,On-site
+Frontend Developer,Mid,119500.0,"HTML, Next.js, CSS, Git, JavaScript, React",United Kingdom,Hybrid
+DevOps Engineer,Lead,229000.0,"Terraform, Docker, Ansible",Germany,Hybrid
+Frontend Developer,Mid,96000.0,"JavaScript, HTML, TypeScript, Next.js, React",United Kingdom,On-site
+Machine Learning Engineer,Junior,109500.0,"TensorFlow, Python, SQL, PyTorch, Docker",Canada,On-site
+DevOps Engineer,Senior,177000.0,"AWS, Terraform, Python",Canada,On-site
+Data Scientist,Lead,191000.0,"Tableau, TensorFlow, Pandas",United Kingdom,Hybrid
+Software Engineer,Senior,211000.0,"System Design, SQL, Python, Docker",United Kingdom,Hybrid
+Software Engineer,Mid,117000.0,"SQL, Docker, System Design, Git, Python, Java",India,Remote
+Data Engineer,Mid,122500.0,"SQL, AWS, Spark, Airflow, Python, Snowflake",United Kingdom,Hybrid
+Frontend Developer,Mid,112500.0,"CSS, JavaScript, HTML",India,On-site
+Software Engineer,Mid,116500.0,"SQL, AWS, Java, Python, Docker",Germany,On-site
+Backend Developer,Junior,63500.0,"REST APIs, SQL, Java, Docker",United States,Hybrid
+Data Scientist,Senior,169000.0,"Pandas, SQL, Statistics, Python, Machine Learning, Spark",United States,Hybrid
+DevOps Engineer,Mid,138500.0,"Docker, Jenkins, CI/CD, AWS, Terraform",United Kingdom,On-site
+Machine Learning Engineer,Junior,84500.0,"AWS, PyTorch, Kubernetes, Machine Learning, SQL",Germany,Hybrid
+DevOps Engineer,Mid,132000.0,,United Kingdom,Hybrid
+Frontend Developer,Mid,,"JavaScript, React, Next.js",United States,Remote
+Machine Learning Engineer,Junior,86500.0,"Kubernetes, Docker, PyTorch, Python, SQL",Germany,Remote
+Software Engineer,Senior,198000.0,"Java, AWS, SQL",United States,Hybrid
+Frontend Developer,Senior,148000.0,"TypeScript, Git, CSS, Figma, JavaScript, React",United Kingdom,Remote
+Data Analyst,Junior,51000.0,"Power BI, SQL, Pandas, Statistics, Tableau, Excel",United Kingdom,Remote
+Machine Learning Engineer,Junior,,"AWS, SQL, Python, Machine Learning",Canada,Remote
+Data Scientist,Mid,103500.0,"Pandas, TensorFlow, AWS, Python, SQL, Spark",United Kingdom,Remote
+Data Scientist,Junior,80000.0,"TensorFlow, Python, Statistics, SQL, Spark, Tableau",India,Remote
+Frontend Developer,Mid,133500.0,"TypeScript, HTML, Git, Redux",Canada,On-site
+Backend Developer,Junior,79000.0,"REST APIs, Node.js, Docker, Java, Git",Canada,Remote
+Data Analyst,Senior,101000.0,"Power BI, Pandas, Statistics, Excel",Germany,Remote
+Data Scientist,Junior,60500.0,"TensorFlow, Pandas, Statistics, AWS, SQL",Canada,Hybrid
+Frontend Developer,Senior,141500.0,"CSS, Git, TypeScript, Next.js, JavaScript",India,Remote
+Frontend Developer,Junior,60000.0,"TypeScript, CSS, Git, React, JavaScript",India,Hybrid
+Software Engineer,Senior,125000.0,"Java, Git, Docker, Python, AWS",United Kingdom,Remote
+Data Engineer,Junior,117500.0,"Airflow, AWS, SQL, Snowflake, Spark",United States,On-site
+Machine Learning Engineer,Mid,150000.0,"Machine Learning, TensorFlow, Kubernetes, SQL",Canada,On-site
+DevOps Engineer,Senior,248000.0,"Python, AWS, Docker",United Kingdom,On-site
+Software Engineer,Mid,123000.0,"SQL, Python, Java, Docker, AWS, JavaScript",United Kingdom,On-site
+Machine Learning Engineer,Senior,196500.0,"PyTorch, AWS, Python, Machine Learning, Docker, TensorFlow",United States,Remote
+Backend Developer,Mid,124500.0,"Docker, Git, Node.js, Java",India,On-site
+Data Engineer,Senior,207500.0,"Scala, AWS, Snowflake",United Kingdom,On-site
+DevOps Engineer,Junior,116500.0,"Terraform, AWS, Python, CI/CD, Kubernetes, Jenkins",United Kingdom,Hybrid
+Data Analyst,Junior,55000.0,"R, SQL, Python, Excel, Power BI",Germany,Remote
+Backend Developer,Senior,130000.0,"Python, Java, Docker, SQL, Node.js, MongoDB",Germany,Remote
+DevOps Engineer,Junior,96000.0,"Docker, Terraform, Kubernetes, CI/CD, Python, Linux",Germany,On-site
+Data Engineer,Junior,82500.0,"SQL, Airflow, Spark, AWS, Python, Docker",Canada,Hybrid
+Data Scientist,Senior,138000.0,"Python, Statistics, Machine Learning",Canada,Remote
+Data Analyst,Senior,106000.0,"Tableau, Statistics, Python",India,On-site
+DevOps Engineer,Lead,244000.0,"Docker, CI/CD, Kubernetes, AWS, Linux",Canada,Hybrid
+Data Analyst,Senior,128000.0,"Tableau, Excel, SQL, R, Power BI",Germany,On-site
+Data Engineer,Lead,212000.0,"AWS, Spark, Kafka, Snowflake, Docker",United Kingdom,Hybrid
+Data Scientist,Mid,134500.0,"Python, Statistics, Pandas",Canada,Remote
+Data Engineer,Senior,180000.0,"Airflow, SQL, Snowflake, Scala, Kafka, Python",Germany,Remote
+Data Analyst,Senior,121500.0,"SQL, Pandas, Excel, Python, Tableau, R",India,Remote
+Data Engineer,Junior,108500.0,"Spark, SQL, Kafka, Scala, AWS, Python",Canada,Hybrid
+Software Engineer,Junior,78500.0,"Git, SQL, JavaScript",Germany,On-site
+Machine Learning Engineer,Junior,92000.0,"Machine Learning, Docker, Kubernetes",Germany,Hybrid
+Backend Developer,Junior,72000.0,"SQL, AWS, Node.js, Python",United Kingdom,On-site
+Machine Learning Engineer,Junior,96500.0,"PyTorch, Docker, Machine Learning, AWS, TensorFlow, Python",United States,Remote
+Data Scientist,Junior,89000.0,"Python, TensorFlow, Statistics",United States,On-site
+Frontend Developer,Senior,118000.0,"JavaScript, TypeScript, CSS, Figma",Germany,Hybrid
+Data Engineer,Mid,126000.0,"SQL, AWS, Python",United Kingdom,Remote
+Machine Learning Engineer,Mid,117500.0,"MLOps, Python, TensorFlow, Machine Learning, PyTorch, SQL",United Kingdom,Hybrid
+Data Scientist,Mid,124000.0,"Tableau, Python, Machine Learning, Pandas, SQL, Statistics",Canada,On-site
+Backend Developer,Junior,81500.0,"REST APIs, Docker, SQL, Git, Java",Canada,On-site
+Data Analyst,Junior,57000.0,"SQL, Tableau, Statistics, Python",Germany,Remote
+Frontend Developer,Senior,116000.0,"HTML, React, JavaScript, CSS, Figma",United States,Remote
+Data Scientist,Mid,146500.0,"Tableau, Pandas, Statistics, Machine Learning, TensorFlow",Germany,Remote
+Data Engineer,Mid,118000.0,"Spark, Scala, Airflow, Python",Canada,Hybrid
+Data Scientist,Mid,119500.0,"Pandas, SQL, TensorFlow",United States,Remote
+Data Analyst,Mid,69500.0,"Statistics, SQL, Python, Excel",United States,Hybrid
+Data Engineer,Junior,70500.0,"Scala, AWS, Python, SQL, Kafka, Airflow",United States,On-site
+Backend Developer,Senior,159000.0,"Docker, Python, Node.js",Canada,On-site
+Machine Learning Engineer,Mid,161500.0,"PyTorch, TensorFlow, Python",India,Hybrid
+Data Scientist,Mid,,"Statistics, SQL, Machine Learning",United Kingdom,Hybrid
+Data Engineer,Mid,137500.0,"Python, Spark, SQL, Airflow, Snowflake, Kafka",Canada,Hybrid
+Data Scientist,Junior,75000.0,,India,Hybrid
+Data Analyst,Senior,103000.0,"Python, Excel, Pandas, Power BI",Canada,On-site
+Backend Developer,Junior,71500.0,"Java, REST APIs, Python, MongoDB",United States,On-site
+Data Analyst,Junior,51500.0,"Python, Excel, Tableau, SQL, Power BI, Statistics",Germany,Hybrid
+Data Analyst,Junior,53500.0,"Excel, Python, SQL, Statistics, Tableau",Germany,Hybrid
+Data Analyst,Mid,83500.0,"Power BI, Pandas, R, SQL, Statistics, Tableau",Canada,Hybrid
+Frontend Developer,Lead,206000.0,"CSS, JavaScript, Git, React",United States,Remote
+Data Engineer,Mid,101500.0,"SQL, Snowflake, Docker, Airflow, AWS, Spark",India,Remote
+Backend Developer,Mid,77000.0,"Python, AWS, Java, Node.js",India,On-site
+Frontend Developer,Mid,103500.0,"React, HTML, Figma, CSS, Git, JavaScript",India,Hybrid
+Software Engineer,Junior,91000.0,"JavaScript, System Design, Git, Python",Canada,Hybrid
+Backend Developer,Senior,150000.0,"MongoDB, Docker, Python, SQL, Node.js, Git",United States,Hybrid
+Frontend Developer,Mid,102000.0,"CSS, JavaScript, Next.js, HTML",Germany,Hybrid
+Data Analyst,Mid,77500.0,"R, Power BI, Excel",Germany,On-site
+Machine Learning Engineer,Senior,177500.0,,Germany,On-site
+Data Analyst,Junior,55000.0,,United Kingdom,Remote
+Data Engineer,Mid,111500.0,"SQL, Python, Airflow",United States,On-site
+Data Scientist,Lead,187000.0,"Pandas, SQL, Python, TensorFlow, Machine Learning",United Kingdom,Remote
+Software Engineer,Junior,89500.0,"Python, JavaScript, Docker, Git, SQL",Germany,Remote
+Data Engineer,Junior,85000.0,"SQL, Spark, Python, Docker, Kafka, AWS",United States,Hybrid
+Frontend Developer,Senior,156500.0,"CSS, Redux, Next.js, Git",Canada,On-site
+Data Scientist,Senior,203000.0,"Pandas, TensorFlow, SQL",United States,On-site
+Backend Developer,Junior,68500.0,"Docker, Python, Node.js, AWS",Canada,On-site
+Data Analyst,Senior,110500.0,"Tableau, Statistics, Excel, Power BI, R",Germany,Remote
+Frontend Developer,Mid,80500.0,"CSS, JavaScript, Git, HTML",United Kingdom,On-site
+Data Engineer,Senior,162000.0,"Snowflake, Kafka, Scala, Python",United States,Hybrid
+Data Engineer,Lead,217000.0,"Airflow, Snowflake, SQL",India,Remote
+Data Scientist,Mid,95500.0,"Machine Learning, Statistics, AWS",United States,On-site
+Machine Learning Engineer,Senior,188500.0,"Python, SQL, Machine Learning, Docker, PyTorch",Germany,On-site
+Data Analyst,Junior,49000.0,"Power BI, Tableau, Excel, R, Python, SQL",Canada,On-site
+Data Scientist,Lead,224000.0,"Python, Statistics, SQL, Spark",India,Remote
+Frontend Developer,Mid,110000.0,,India,Remote
+Data Analyst,Lead,151500.0,"Excel, Statistics, SQL",United States,Hybrid
+Data Scientist,Junior,111000.0,"SQL, Tableau, Python, Machine Learning, AWS",Germany,On-site
+Software Engineer,Junior,75000.0,"Git, Java, System Design, Docker, SQL, AWS",Germany,Hybrid
+Frontend Developer,Senior,126500.0,"TypeScript, CSS, HTML, Git, Figma, Next.js",Canada,Hybrid
+Software Engineer,Junior,103500.0,"Python, Java, C++, JavaScript, SQL",Germany,On-site
+DevOps Engineer,Mid,105500.0,"Ansible, Kubernetes, Docker, AWS, Linux",United Kingdom,On-site
+Frontend Developer,Junior,67000.0,"Git, JavaScript, Next.js",United States,On-site
+Software Engineer,Junior,94000.0,"Python, SQL, Java",United States,Remote
+DevOps Engineer,Mid,155500.0,"Docker, CI/CD, Kubernetes",India,On-site
+Data Scientist,Junior,84500.0,"Pandas, Statistics, SQL, TensorFlow",Germany,On-site
+DevOps Engineer,Mid,138500.0,"Docker, AWS, Linux, CI/CD, Kubernetes, Jenkins",United Kingdom,On-site
+DevOps Engineer,Mid,91000.0,"AWS, Jenkins, Docker, CI/CD",United Kingdom,Remote
+DevOps Engineer,Mid,123500.0,"Kubernetes, Terraform, Ansible, CI/CD, Docker",Germany,Remote
+Machine Learning Engineer,Senior,194500.0,"AWS, Docker, TensorFlow",United States,On-site
+Backend Developer,Mid,129000.0,"Node.js, Python, REST APIs, Java, AWS, SQL",United States,Hybrid
+Software Engineer,Senior,121500.0,"JavaScript, Python, Git, System Design, Docker",United Kingdom,Hybrid
+Software Engineer,Junior,80500.0,"JavaScript, Git, Python, Java",United Kingdom,Remote
+Software Engineer,Junior,98500.0,"C++, Java, Git, SQL, Docker",United Kingdom,Hybrid
+Data Engineer,Junior,99000.0,"Python, Airflow, Snowflake",Germany,Remote
+Data Engineer,Mid,110500.0,"Spark, SQL, Python, AWS, Snowflake, Airflow",Germany,Remote
+Software Engineer,Senior,177000.0,"Java, C++, SQL, AWS, Git",India,Hybrid
+Data Analyst,Junior,54500.0,"SQL, Tableau, Python, Power BI",United States,Remote
+Data Analyst,Junior,54000.0,"Pandas, Python, SQL",India,Remote
+Machine Learning Engineer,Mid,187500.0,"Python, Machine Learning, SQL, AWS, PyTorch, Kubernetes",India,Hybrid
+Data Engineer,Mid,143000.0,"AWS, Spark, Scala, Airflow, Python, Kafka",India,Hybrid
+Data Scientist,Mid,136500.0,"Pandas, Statistics, Machine Learning, Tableau",India,Remote
+Machine Learning Engineer,Mid,154000.0,"Machine Learning, AWS, Docker, Python",United States,Hybrid
+Backend Developer,Mid,107500.0,"Node.js, Python, AWS",India,Remote
+Frontend Developer,Lead,189000.0,"Git, JavaScript, React, TypeScript, HTML",Germany,Hybrid
+Software Engineer,Junior,88000.0,"Docker, System Design, SQL",United Kingdom,On-site
+Frontend Developer,Mid,97000.0,"Next.js, TypeScript, Git, CSS, JavaScript",Germany,Remote
+Machine Learning Engineer,Junior,106500.0,"AWS, MLOps, SQL, Kubernetes",United States,Remote
+,Mid,83500.0,"Python, Excel, R, Tableau",United Kingdom,Remote
+Data Engineer,Junior,65500.0,"Python, SQL, Spark, Docker",India,On-site
+Data Scientist,Mid,106000.0,"Statistics, Python, Pandas, TensorFlow",India,Hybrid
+Machine Learning Engineer,Mid,124500.0,"Machine Learning, Python, PyTorch, AWS",Canada,On-site
+Backend Developer,Senior,159500.0,"Docker, MongoDB, Git",Canada,Hybrid
+DevOps Engineer,Mid,124000.0,"Linux, Docker, AWS, Kubernetes",United States,On-site
+Frontend Developer,Junior,85500.0,"Redux, HTML, CSS, TypeScript, React, Next.js",India,Remote
+Frontend Developer,Lead,146000.0,"Git, CSS, TypeScript, Next.js, React, HTML",United States,On-site
+DevOps Engineer,Senior,159500.0,"Kubernetes, Terraform, Docker, AWS, Ansible",United States,On-site
+Data Scientist,Junior,102500.0,"Statistics, Pandas, AWS, Python, SQL, TensorFlow",Canada,Hybrid
+Software Engineer,Mid,120500.0,"AWS, Docker, JavaScript, Git, C++",India,On-site
+Backend Developer,Senior,195500.0,"SQL, Node.js, Python, MongoDB, Java",Germany,Hybrid
+Data Engineer,Junior,76000.0,"AWS, SQL, Snowflake, Spark",Germany,On-site
+Frontend Developer,Mid,98000.0,"Next.js, React, Git, TypeScript, Figma, JavaScript",India,Remote
+Backend Developer,Mid,98000.0,"Java, Python, MongoDB, Node.js",Germany,Remote
+Data Analyst,Senior,119500.0,"Statistics, Power BI, Pandas, Tableau, Python, R",Germany,Hybrid
+Frontend Developer,Junior,,"CSS, JavaScript, Figma, TypeScript, React, Redux",United Kingdom,Hybrid
+Software Engineer,Junior,,"C++, Python, SQL",United Kingdom,On-site
+Data Analyst,Mid,85000.0,"Tableau, Pandas, SQL, Excel, Python",United Kingdom,On-site
+Software Engineer,Junior,98500.0,"JavaScript, System Design, Docker, Python, Java",United Kingdom,On-site
+Data Scientist,Lead,209000.0,"SQL, Statistics, Spark, Machine Learning, Pandas, Python",United States,Hybrid
+Machine Learning Engineer,Junior,106000.0,"TensorFlow, Python, PyTorch, SQL, Kubernetes, MLOps",India,Hybrid
+Data Scientist,Senior,148500.0,"SQL, Statistics, TensorFlow, Machine Learning, Spark",India,On-site
+Machine Learning Engineer,Senior,172500.0,"Docker, PyTorch, AWS, Python, TensorFlow, Kubernetes",United Kingdom,Remote
+Data Engineer,Senior,167000.0,"Spark, Python, SQL, Kafka, AWS, Airflow",India,On-site
+Backend Developer,Mid,130000.0,"Java, Git, Node.js, REST APIs, AWS",United Kingdom,Remote
+Software Engineer,Senior,119500.0,,United Kingdom,Remote
+Data Analyst,Lead,162000.0,"Python, Statistics, Excel, Power BI",Canada,On-site
+Backend Developer,Mid,103000.0,"Java, SQL, REST APIs, Node.js",India,Remote
+Data Analyst,Junior,46000.0,"Power BI, Excel, Tableau, Statistics, R, Python",Canada,Remote
+Data Analyst,Senior,146000.0,"SQL, Tableau, Python, Pandas, R",United States,Hybrid
+Machine Learning Engineer,Junior,,"Python, Machine Learning, Docker, AWS, TensorFlow",United States,On-site
+Machine Learning Engineer,Lead,215500.0,"PyTorch, TensorFlow, Docker",India,Hybrid
+Data Analyst,Mid,83000.0,"Excel, SQL, Tableau",India,Hybrid
+Data Engineer,Mid,162500.0,"Kafka, Scala, SQL, Snowflake",India,Remote
+Frontend Developer,Mid,80000.0,"JavaScript, Figma, CSS, HTML, React",Canada,On-site
+Machine Learning Engineer,Mid,136500.0,,Canada,On-site
+Data Analyst,Junior,75000.0,"Python, SQL, Tableau",Germany,On-site
+DevOps Engineer,Mid,135000.0,"Ansible, Docker, AWS",Germany,Hybrid
+Frontend Developer,Senior,169000.0,"TypeScript, HTML, Next.js, CSS, React",United Kingdom,Remote
+DevOps Engineer,Mid,90500.0,"Python, Docker, CI/CD, Terraform, Jenkins, Linux",Germany,Hybrid
+Software Engineer,Mid,126000.0,"Docker, Java, JavaScript",United Kingdom,Remote
+Backend Developer,Junior,67500.0,,India,Remote
+Software Engineer,Junior,94000.0,"Docker, AWS, Git, JavaScript, Java, Python",United States,Remote
+Data Analyst,Senior,125000.0,"Tableau, SQL, Excel, Statistics, Power BI, R",Germany,Remote
+Data Scientist,Lead,218000.0,"Machine Learning, Pandas, Tableau",Canada,Hybrid
+Machine Learning Engineer,Mid,129000.0,"Docker, Python, TensorFlow, PyTorch, AWS",Germany,Hybrid
+Machine Learning Engineer,Junior,154500.0,"MLOps, TensorFlow, PyTorch, Python",Germany,On-site
+Data Engineer,Lead,281500.0,"Spark, Scala, Python, AWS",United Kingdom,On-site
+Data Scientist,Mid,142000.0,"Machine Learning, AWS, Pandas, Statistics, Python, TensorFlow",United Kingdom,On-site
+DevOps Engineer,Junior,89500.0,"Terraform, Kubernetes, Docker, AWS, Linux, Ansible",Germany,Hybrid
+Data Scientist,Mid,137000.0,"Python, SQL, Pandas, Machine Learning",Germany,Remote
+DevOps Engineer,Senior,154000.0,"AWS, CI/CD, Jenkins, Docker, Python, Terraform",United States,Remote
+Machine Learning Engineer,Junior,81000.0,"MLOps, TensorFlow, SQL, Python, Docker",United Kingdom,Hybrid
+Frontend Developer,Junior,55000.0,"React, JavaScript, Next.js",Canada,Remote
+Backend Developer,Mid,101000.0,"Git, Docker, Node.js, SQL, Python, Java",United States,Remote
+DevOps Engineer,Mid,143500.0,"CI/CD, AWS, Terraform, Linux, Jenkins",United Kingdom,On-site
+Data Scientist,Mid,119500.0,"Python, SQL, Statistics, TensorFlow, Spark, Machine Learning",India,Hybrid
+Backend Developer,Senior,144500.0,"REST APIs, Java, Python, SQL, MongoDB, AWS",Canada,Remote
+DevOps Engineer,Junior,,"Linux, Kubernetes, Terraform",United Kingdom,On-site
+DevOps Engineer,Mid,138500.0,"Ansible, Terraform, CI/CD, AWS",India,Hybrid
+Software Engineer,Mid,104000.0,"System Design, Java, Python, Git",Canada,Remote
+Machine Learning Engineer,Junior,110500.0,"TensorFlow, Machine Learning, PyTorch, SQL, AWS",India,Remote
+Data Scientist,Senior,154500.0,"TensorFlow, SQL, Python, Spark, Tableau",United States,On-site
+Data Scientist,Senior,215500.0,"Statistics, Pandas, Python, TensorFlow, SQL, Tableau",Canada,Hybrid
+DevOps Engineer,Lead,264500.0,"Linux, Terraform, AWS, Python, Kubernetes",United States,Remote
+Data Engineer,Mid,,"SQL, Spark, Python, AWS, Snowflake",Germany,Remote
+DevOps Engineer,Junior,61500.0,"AWS, Kubernetes, Docker, Ansible",Germany,Hybrid
+Machine Learning Engineer,Junior,97000.0,"SQL, TensorFlow, AWS, MLOps, Machine Learning, PyTorch",United Kingdom,Hybrid
+Machine Learning Engineer,Junior,93500.0,"Kubernetes, AWS, PyTorch",Germany,On-site
+DevOps Engineer,Lead,232500.0,"Docker, Python, Jenkins, AWS, Kubernetes",United States,On-site
+Backend Developer,Junior,75500.0,"MongoDB, Git, REST APIs, Java, Python, SQL",Canada,Remote
+Software Engineer,Junior,82500.0,"Git, Python, JavaScript, Java, AWS, SQL",Canada,Hybrid
+Data Scientist,Lead,170000.0,"Machine Learning, AWS, TensorFlow",United States,Remote
+Data Analyst,Senior,129500.0,"Power BI, Python, Tableau, R, Excel",United Kingdom,Hybrid
+Data Engineer,Lead,228000.0,"SQL, Python, Docker, Kafka, Airflow, AWS",India,Hybrid
+Frontend Developer,Junior,79500.0,"Git, Next.js, React, JavaScript, CSS, HTML",United States,Remote
+Software Engineer,Junior,66000.0,"SQL, Docker, JavaScript, Java, Git, C++",United Kingdom,Hybrid
+Data Engineer,Junior,89000.0,"Python, Airflow, SQL, Spark",Canada,On-site
+Backend Developer,Senior,122000.0,"Node.js, Java, SQL, Docker, MongoDB",United States,On-site
+Data Engineer,Mid,156000.0,"Airflow, Docker, SQL, Spark, Kafka",United Kingdom,Hybrid
+Data Engineer,Mid,82500.0,"SQL, Docker, Spark, AWS, Python",United Kingdom,Remote
+Data Analyst,Lead,109500.0,"Tableau, Python, Statistics, SQL, Power BI, Excel",United Kingdom,Hybrid
+Data Scientist,Mid,129500.0,"SQL, Statistics, Machine Learning",Germany,Remote
