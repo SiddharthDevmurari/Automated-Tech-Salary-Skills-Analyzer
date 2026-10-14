@@ -1,0 +1,6 @@
+# Never change line endings in binary files (PDFs can look like text to Git).
+*.pdf  binary
+*.docx binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
