@@ -1,0 +1,44 @@
+RESUME
+
+Name            : Aman Verma
+Address         : 14, Shanti Nagar Society, Near Old Bus Stand, Rajkot, Gujarat - 360001
+Date of Birth   : 12 March 2004
+Father's Name   : Mr. Suresh Verma
+Marital Status  : Single
+Nationality     : Indian
+Languages Known : Hindi, Gujarati, English
+Email           : aman.verma@example.com
+
+CAREER GOAL
+To work in a reputed organisation where I can utilise my skills and knowledge for the
+growth of the company and myself. I am a hardworking, sincere and dedicated person and
+a quick learner.
+
+QUALIFICATION
+B.E. Information Technology - pursuing (final year)
+12th Science - passed with first class
+10th - passed with distinction
+
+COMPUTER KNOWLEDGE
+MS Word, MS PowerPoint, Excel, Internet browsing, Typing 35 wpm, C, C++, basic Python,
+HTML, basic knowledge of SQL
+
+WORK DONE
+- Made a website for my cousin's shop using HTML.
+- Did a college mini project on library management.
+- Helped in organising the college annual function as a volunteer.
+
+HOBBIES
+Playing cricket, watching movies, listening to music, travelling, playing mobile games,
+reading news, cooking
+
+STRENGTHS
+Hardworking, punctual, honest, positive attitude, team player
+
+DECLARATION
+I hereby declare that all the information given above is true to the best of my
+knowledge and belief.
+
+Place : Rajkot
+Date  :
+                                                                    (Aman Verma)

@@ -1,0 +1,29 @@
+# Look and feel of the app. Streamlit reads this file automatically when the
+# app is started from the project folder.
+#
+# Palette: navy #282735, coral #f9876f, green #9be198 on a pale mint page.
+
+[theme]
+base = "light"
+primaryColor = "#282735"
+backgroundColor = "#ebf7f7"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#282735"
+linkColor = "#282735"
+borderColor = "#cfe3e0"
+baseRadius = "0.5rem"
+showSidebarBorder = false
+
+# Condensed display font for headings, loaded from Google Fonts (falls back to
+# the default sans-serif font when offline).
+headingFont = "Oswald:https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap, sans-serif"
+# h1, h2, h3
+headingFontSizes = ["2.4rem", "1.6rem", "1.25rem"]
+headingFontWeights = [600, 600, 500]
+
+[theme.sidebar]
+primaryColor = "#f9876f"
+backgroundColor = "#282735"
+secondaryBackgroundColor = "#3a394b"
+textColor = "#f4f6f6"
+borderColor = "#55546a"
